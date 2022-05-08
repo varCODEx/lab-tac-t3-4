@@ -6,4 +6,5 @@ The saved plots are located in the created /plots folder.
 (Note that step and impulse response for the simple differentiating function are not plotted due to the function specific)
 
 Plots look like this:
+
 ![oops, looks like no example plot for you today :(](Nyquist of frac{16}{s^2+s}.jpg)
