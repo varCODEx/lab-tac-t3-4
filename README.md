@@ -7,4 +7,4 @@ The saved plots are located in the created /plots folder.
 
 Plots look like this:
 
-![oops, looks like no example plot for you today :(](Nyquist of frac{16}{s^2+s}.jpg)
+![oops, looks like no example plot for you today :(](Nyquist_of_frac{16}{s^2+s}.jpg)
