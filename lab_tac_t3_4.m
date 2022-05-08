@@ -20,10 +20,10 @@ H = k*s;
 H = tf([k], [T 1 0]);
 
 %6 - real differentiating
-H = tf([k], [T, 1]);
+H = tf([k 0], [T, 1]);
 
 
-plot_all_and_save(H);
+% plot_all_and_save(H);
 %
 
 function plot_all_and_save(H)
