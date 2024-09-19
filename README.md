@@ -1,3 +1,6 @@
+***Archived:***
+This repository is kept here just to: show off some random stuff we've being doing in my uni. Like, hey, I did some MATLAB, so that should be a nice memory, right?
+
 # lab-tac-t3-4
 The repository contains two scripts (.m and .mlx). The prior is an ordinary MATLAB script, the former - a live version of the code.
 Download the live version (.mlx), change the values of T, k according to your task and you're good to go.
